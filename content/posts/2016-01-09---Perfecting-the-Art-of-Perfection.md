@@ -1,7 +1,7 @@
 ---
 template: post
 title: 2019 AWS Certified Solutions Architect — Associate Exam Preparation
-slug: aws-certified-solutions-architect
+slug: aws-certified-solutions-architect-associate
 draft: false
 date: 2019-10-15T16:00:00.000Z
 description: >-
@@ -11,10 +11,19 @@ description: >-
 category: AWS
 tags:
   - AWS Certified Solutions Architect
-  - AWS
-  - exam
+  - AWS Exam
+  - Exam tips
+  - SAA-C01
 ---
 I passed the [AWS Certified Solutions Architect — Associate (SAA-C01) exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/) in Oct 2019 after spending 1 month to prepare for the exam. Here are my study plan and exam tips.
+
+
+
+![aws certified](/media/aws-certified-logo_color-horz_360x60.png "AWS ertified LogoC")
+
+![aws solution architect associate](/media/solutions-architect-associate-tag_360x32.png "AWS Solution Architect Associate Tag")
+
+
 
 ### **My Background**
 
