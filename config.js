@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://elvinyhl.com',
   pathPrefix: '/',
-  title: 'Elvin Lee\'s blog',
-  subtitle: 'by elvin',
+  title: 'Elvin Lee | Software Engineer',
+  subtitle: 'Everything about Elvin',
   copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-158968199-1',
   useKatex: false,
   menu: [
     {
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Elvin Lee',
     photo: '/photo.jpg',
-    bio: 'Software Engineer from Hong Kong 🇭🇰',
+    bio: 'Software Engineer | Hong Kong 🇭🇰',
     contacts: {
       email: 'elvinyhlee@gmail.com',
       facebook: '',
