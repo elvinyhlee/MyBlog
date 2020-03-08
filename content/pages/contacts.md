@@ -1,10 +1,9 @@
 ---
-template: page
-title: Contact me
-slug: contact-me
-draft: false
+title: "Contact me"
+template: "page"
+socialImage: "/media/image-2.jpg"
 ---
-Email me at [elvinyhlee@gmail.com](elvinyhlee@gmail.com), or add me via one of these:
+Email me at [elvinyhlee@gmail.com](mailto:elvinyhlee@gmail.com), or add me via one of these:
 
 * Linkedin: https://linkedin.com/in/elvinyhlee
 * Github: https://github.com/elvinyhlee
