@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Everything about Elvin',
   copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 3,
   googleAnalyticsId: 'UA-158968199-1',
   useKatex: false,
   menu: [
