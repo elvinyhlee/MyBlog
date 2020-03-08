@@ -13,7 +13,6 @@ tags:
   - AWS Certified Solutions Architect
   - AWS Exam
   - Exam tips
-  - SAA-C01
 ---
 I passed the [AWS Certified Solutions Architect — Associate (SAA-C01) exam](https://aws.amazon.com/certification/certified-solutions-architect-associate/) in Oct 2019 after spending 1 month to prepare for the exam. Here are my study plan and exam tips.
 
