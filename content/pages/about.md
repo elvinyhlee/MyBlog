@@ -32,12 +32,11 @@ Founding member of Hong Kong’s **1st virtual insurer** licensed under the Insu
 
 *Jun 2017 - Aug 2017*
 
-<img src="https://www.hkma.gov.hk/statics/assets/img/logo.jpg" alt="HKMA Logo" width="250"/>
+<img src="https://www.hkma.gov.hk/statics/assets/img/logo.jpg" alt="HKMA Logo" width="300"/>
 
 ![hkma](/media/hkma-work.jpg "HKMA Internship")
-> *photo of Norman Chan (former Chief Executive of the HKMA) with interns (I am the one standing next to Norman)*
+> *I am standing next to Norman Chan, the former Chief Executive of the HKMA*
 
-<br/>
 
 ## 📖 EDUCATION
 
@@ -45,9 +44,8 @@ Founding member of Hong Kong’s **1st virtual insurer** licensed under the Insu
 
 *Sep 2014 - Jul 2018*
 
-<img src="https://www.cuhk.edu.hk/english/images/cuhk_logo_2x.png?20150907" alt="CUHK Logo" width="250"/>
+<img src="https://www.cuhk.edu.hk/english/images/cuhk_logo_2x.png?20150907" alt="CUHK Logo" width="300"/>
 
-<br/>
 
 ## 🎮 SIDE PROJECT
 
