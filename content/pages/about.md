@@ -8,7 +8,7 @@ socialImage: "/media/image-2.jpg"
 
 - [Work Experience](#-work-experience)
 - [Education](#-education)
-- [Side Project](#l-side-project)
+- [Side Project](#-side-project)
 
 
 ## 💼 WORK EXPERIENCE
@@ -35,7 +35,7 @@ Founding member of Hong Kong’s **1st virtual insurer** licensed under the Insu
 <img src="https://www.hkma.gov.hk/statics/assets/img/logo.jpg" alt="HKMA Logo" width="300"/>
 
 ![hkma](/media/hkma-work.jpg "HKMA Internship")
-> *I am standing next to Norman Chan, the former Chief Executive of the HKMA*
+> *I'm next to Norman Chan, the former Chief Executive of the HKMA*
 
 
 ## 📖 EDUCATION
