@@ -27,5 +27,17 @@ There are different approaches to make data structure persistent. The no-brainer
 >
 > ![git-object-model](/media/git.png "Git Object Model")
 
-Here we will adopt something similar to **Time-based Versioning**.
+In our case, we are going to adopt something similar to **Time-based Versioning**. The graph is versioned by `Timestamp`.
 
+![create-question](/media/create.png "Create question")
+> Creation
+
+For `Next` relationship, we introduce 2 properties: `From` and `to`, representing the time interval that the relationship is valid. If `to` equal to *None*, that means it is still currently valid.
+
+![update-question](/media/update.png "Update question")
+> Update
+
+![delete-question](/media/delete.png "Delete question")
+> Deletion
+
+Questions become immutable now. We can trace back to target version through specific *Timestamp*. Nice!
